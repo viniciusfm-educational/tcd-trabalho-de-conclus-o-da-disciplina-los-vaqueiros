@@ -20,5 +20,5 @@
 | 1 - Escolha do Produto                                 |
 | 2 - Nome da Empresa                                    |
 | 3 - Criação do Logotipo                                |
-| 4 - Descrição da Empresa                               |
+| 4 - Descrição do Software                              |
 | 5 - Criação do modelo do software                      |

@@ -3,11 +3,12 @@
 
 ## Equipe de desenvolvimento
 
-|         Membros da Equipe de Desenvolvimento           |
+|       Equipe de Desenvolvimento - Los Vaqueiros        |
 |--------------------------------------------------------|
-| Pedro Yan de Oliveira Firmino                          |
-| Adilio Carvalho Ferreira Filho                         |
-| Felipe Alcantara de Assis                              |
-| Pedro Campos Miranda                                   |
+| Pedro Yan de Oliveira Firmino / pedroooo3wd            |
+| Adilio Carvalho Ferreira Filho   / Adilio990           |
+| Felipe Alcantara de Assis  / lipehhs                   |
+| Pedro Campos Miranda  / Pedro-CamposMiranda            |
+| João Marcelo Cunha Viana  / joaozit0z                  |
 
 

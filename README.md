@@ -13,20 +13,20 @@
 
 ## Descrição do software 📋
 
-Nosso software será desenvolvido exclusivamente por nós, com foco total na revenda de tênis. 
-Ele será criado em Kotlin, com interface em XML, garantindo desempenho ótimo, navegação fluida e uma experiência limpa e intuitiva para o usuário.
+Nosso software será desenvolvido com foco exclusivo na revenda de tênis e calçados. 
+Ele será criado em Kotlin, com interface de prototipagem em XML, garantindo um desenvolvimento mais simples, navegação fluida e uma experiência limpa e intuitiva para o usuário.
 
-Com ele, é possível encontrar modelos de marcas como Nike, Adidas, Puma e outras, informando fotos, preços, tamanhos disponíveis e estoque. 
-Tudo organizado de forma prática, pra facilitar o controle do que entra e sai.
+Com ele, será possível encontrar modelos de marcas de grande relevância como Nike, Adidas, Puma, Versace, New Balance, Vans, Mizuno, Fila, Asics, Olympikus, Converse dentre outras e revendedores, informando fotos, preços, tamanhos disponíveis, descrição dos produtos e estoque. 
+Tudo organizado de forma prática e simples, pra facilitar o controle de entrada e saída dos produtos.
 
-O sistema também permite acompanhar vendas em tempo real, 
-visualizar o carrinho de compra e gerar relatórios simples que mostram quais modelos estão com mais saída.
+O sistema também permite um CRUD (criação, listagem edição e exclusão) dos produtos da loja, 
+visualizar o carrinho de compra, cadastro e login de clientes, gerar relatórios simples que mostram quais modelos estão com mais saída, serão funcionalidades presentes no projeto.
 
-Tudo foi pensado pra agilizar o dia a dia do consumidor com: menos cliques, menos confusão, mais agilidade. 
-É abrir o app e já saber onde está cada coisa.
+Tudo foi pensado pra otimizar o tempo do dia a dia do consumidor com: menos cliques, menos confusão, mais agilidade e mais praticidade. 
 
-Funciona leve, responde rápido e entrega o que promete. Feito sob medida, com foco no que realmente importa.
+Ao abrir o App é fácil identificar onde está os produtos e acessar as principais funcionalidades.
 
+O software tem um funcionamento leve, responde rápido e entrega o que promete. Feito pensado no comércio de tênis, com foco no cliente e na praticidade.
 
 ## TODO List do Sofware 📜 
 

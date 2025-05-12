@@ -11,4 +11,14 @@
 | Pedro Campos Miranda  / Pedro-CamposMiranda            |
 | João Marcelo Cunha Viana  / joaozit0z                  |
 
+## Descrição do software 📋
 
+
+
+|                       TODO List 📜                     |
+|--------------------------------------------------------|
+| 1 - Escolha do Produto                                 |
+| 2 - Nome da Empresa                                    |
+| 3 - Criação do Logotipo                                |
+| 4 - Descrição da Empresa                               |
+| 5 - Criação do modelo do software                      |

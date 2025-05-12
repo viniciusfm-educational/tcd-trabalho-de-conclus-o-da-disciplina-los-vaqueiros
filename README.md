@@ -13,7 +13,7 @@
 
 ## Descrição do software 📋
 
-##Nosso software será desenvolvido exclusivamente por nós, com foco total na revenda de tênis. Ele será criado em Kotlin, com interface em XML, garantindo desempenho ótimo, navegação fluida e uma experiência limpa e intuitiva para o usuário.
+Nosso software será desenvolvido exclusivamente por nós, com foco total na revenda de tênis. Ele será criado em Kotlin, com interface em XML, garantindo desempenho ótimo, navegação fluida e uma experiência limpa e intuitiva para o usuário.
 
 Com ele, é possível encontrar modelos de marcas como Nike, Adidas, Puma e outras, informando fotos, preços, tamanhos disponíveis e estoque. Tudo organizado de forma prática, pra facilitar o controle do que entra e sai.
 

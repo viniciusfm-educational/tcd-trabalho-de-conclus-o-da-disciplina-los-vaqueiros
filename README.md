@@ -37,3 +37,6 @@ Funciona leve, responde rápido e entrega o que promete. Feito sob medida, com f
 | 3 - Criação do Logotipo                                |
 | 4 - Descrição do Software                              |
 | 5 - Criação do modelo do software                      |
+
+
+## Modelo do Sofware no figma 🌌 

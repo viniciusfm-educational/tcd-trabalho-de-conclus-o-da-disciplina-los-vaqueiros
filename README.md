@@ -40,3 +40,10 @@ O software tem um funcionamento leve, responde rápido e entrega o que promete. 
 
 
 ## Modelo do Sofware no figma 🌌 
+
+<img src="Screenshot_2025-05-19-06-28-22-281_com.android.chrome.jpg" height="600">
+<img src="Screenshot_2025-05-19-06-28-19-199_com.android.chrome.jpg" height="600">
+<img src="Screenshot_2025-05-19-06-28-14-836_com.android.chrome.jpg" height="600">
+<img src="Screenshot_2025-05-19-06-28-10-510_com.android.chrome.jpg" height="600">
+<img src="Screenshot_2025-05-19-06-28-06-110_com.android.chrome.jpg" height="600">
+<img src="Screenshot_2025-05-19-06-28-00-164_com.android.chrome.jpg" height="600">
